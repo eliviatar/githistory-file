@@ -1,3 +1,0 @@
-Integration key - DIZNPGXV08VCLQ3VA3XZ
-Secret key - AUbZeSKu6xousAvSyIsbWqtgZoqVPh38ZE6SA4hc
-Api hostname - api-d54e5e17.duosecurity.com
