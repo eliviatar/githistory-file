@@ -1,0 +1,31 @@
+
+Zendesk API
+Postman url - https://paloaltonetworks3605.zendesk.com/api/v2/users.json
+Token: PYhbw3Ka3jmQAwuW1Q2lOiLOW8SuNq0klP8EwpmW
+
+
+
+
+conversation API
+App ID - 673db0a77923beaaf40fe4aa
+Key ID - app_673db5392959f065e937f596
+Secret Key - P1knVHmklGx1hC0hvsEjgT8jdDpX7YO5rrljH8j8nBSeEJslg3cblcW735yTSMQYNBZPbgoffRf-XBwY7rs1fA
+
+app_673db5392959f065e937f596:P1knVHmklGx1hC0hvsEjgT8jdDpX7YO5rrljH8j8nBSeEJslg3cblcW735yTSMQYNBZPbgoffRf-XBwY7rs1fA
+
+
+
+
+AWS-SES-Key
+
+Access key - AKIAWW4CZ7NKIUCKORWX
+Secret - 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
+
+
+
+DD_API_KEY  = 7b4f59188cee895f411b84e762693b88
+DD-APPLICATION-KEY
+
+
+airtable
+Token - patd7y4GgrwKgh67O.5df34a272caa153ff621ad3d19945f1e62e340bb908742ddfe36e3e74e547b02
